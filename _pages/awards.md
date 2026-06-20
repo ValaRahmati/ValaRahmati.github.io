@@ -10,7 +10,7 @@ nav_order: 4
 ### 🏛️ Academic Fellowships & Distinctions
 
 * **Moody Dissertation Fellowship** — Moody Graduate School, Southern Methodist University (August 2026 – May 2027)
-* **2026 Outstanding Graduate Award** — OREM Department, Southern Methodist University (May 2026)
+* **2026 Teaching and Academic Leadership Award** — OREM Department, Southern Methodist University (May 2026)
 * **2025 Outstanding Graduate Award** — OREM Department, Southern Methodist University (May 2025)
 * **Graduate Student Travel Grant** — Moody Graduate School, Southern Methodist University (Oct 2025, May 2025, Oct 2023)
 
